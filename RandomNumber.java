@@ -19,9 +19,9 @@ public class RandomNumber {
         System.out.println(fullBoxCount + " boxes were filled");
         System.out.println(extraJars + "jars left over");
 
-        System.out.println(rand.nextInt(6)+1 ) ;
+        System.out.println(rand.nextInt(6)+1 );
 
-        ;
+        
         
     }
 
